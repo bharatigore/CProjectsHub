@@ -9,7 +9,7 @@ o	In this project we implement the layout of complete file system,PROM,hard disk
 o	In this project we implement almost every related system call used in file manipulation activity along with some important commands.<br>
 o	This is research based project. We develop this project to understand internals of an operating systemand to explore data structure implementation of C programming. <br>
 </ul>
-<h2>How to run:</h2><ul>
+<h2>How to run: -</h2><ul>
 1.Clone or download this repository to your local machine.<br>
 
                    https://github.com/bharatigore/CProjectsHub.git
